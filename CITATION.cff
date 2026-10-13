@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code or the packaged data, please cite this repository
+  (DOI archived on Zenodo) as well as the related review paper.
+title: WJR_Comparison
+authors:
+  - name: WCHAO
+type: software
+repository-code: "https://github.com/WChao1988/WJR_Comparison"
+abstract: >-
+  Code and data for comparing seafloor topography inversion from
+  satellite-derived gravity fields. Implements and benchmarks six inversion
+  approaches (GGM, EGGM, SAS, VParker, and the neural-network variants PDNN
+  and Sandwell DNN) over three study regions in the Pacific Ocean using
+  SWOT-derived gravity grids, ship soundings, and GEBCO reference bathymetry.
+keywords:
+  - seafloor topography
+  - bathymetry
+  - gravity inversion
+  - satellite altimetry
+  - SWOT
+  - GEBCO
+  - marine gravity
+license: MIT

@@ -1,0 +1,5 @@
+# Normalize text files; never touch binary data files
+* text=auto
+*.npy binary
+*.nc binary
+*.pyc binary

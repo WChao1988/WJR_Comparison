@@ -1,0 +1,18 @@
+# Core dependencies for the runnable experiments under example/
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.2
+
+# Optional: JIT acceleration of the EGGM terrain-correction kernel.
+# The code falls back to an equivalent pure-NumPy implementation if missing.
+numba>=0.58
+
+# Optional: alternate readers for NetCDF-4/HDF5 GEBCO files.
+# NetCDF-3 classic files are read with SciPy alone.
+xarray
+netCDF4
+h5py
+
+# Only needed to inspect the neural-network reference code under
+# methods/PDNN and methods/Sandwell DNN (not required by example/).
+torch>=2.0
