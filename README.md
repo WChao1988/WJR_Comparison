@@ -1,7 +1,7 @@
 # WJR_Comparison — Seafloor Topography Inversion Methods
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23340061.svg)](https://doi.org/10.5281/zenodo.23340061)
 
 Code and data accompanying **"A Review of Seafloor Topography Inversion
 Methods"**. This repository packages self-contained, reproducible experiments
@@ -148,7 +148,7 @@ If you use this code or data, please cite:
 
 > WCHAO. *A Review of Seafloor Topography Inversion Methods* (2026).
 > Code and data: https://github.com/WChao1988/WJR_Comparison,
-> DOI: 10.5281/zenodo.XXXXXXX (archived on Zenodo).
+> DOI: 10.5281/zenodo.23340061 (archived on Zenodo).
 
 See [`CITATION.cff`](CITATION.cff). GitHub renders a "Cite this repository"
 widget from that file, and Zenodo exposes the same metadata for the archived

@@ -7,6 +7,9 @@ authors:
   - name: WCHAO
 type: software
 repository-code: "https://github.com/WChao1988/WJR_Comparison"
+doi: "10.5281/zenodo.23340061"
+version: 1.0.0
+date-released: "2026-10-13"
 abstract: >-
   Code and data for comparing seafloor topography inversion from
   satellite-derived gravity fields. Implements and benchmarks six inversion
